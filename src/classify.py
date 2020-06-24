@@ -291,14 +291,15 @@ threadLock = threading.Lock()
 file_name = 'rawData/products_part'+ File_Number +'.csv'
 file_name_test = 'rawData/test.csv'
 
-# input = read_csv(file_name, True)
-# work_with_data(input)
-# merg_results()
+input = read_csv(file_name, True)
+work_with_data(input)
+merg_results()
 
 print(Failed_Requests)
 
 
 # Test -----------------------------------------------------------
+
 # comment = '//branches:"Standard CPUs","Fail-safe CPUs","High-availability CPUs"//'
 # addr = 'Automation technology>Automation systems>SIMATIC Industrial Automation Systems>Controllers>Advanced Controllers>S7-400/S7-400H/S7-400F/FH>Central processing units>High-availability CPUs>CPU 414H'
 # desc = "SIMATIC S7-400H, CPU 414-5H, central processing unit for S7-400H and S7-400F/FH, 5 interfaces: 1x MPI/DP, 1x DP, 1x PN and 2 for sync modules, 4 MB memory (2 MB data/2 MB program),"
@@ -309,7 +310,7 @@ print(Failed_Requests)
 # res = find_category(DataInformation(th[2246][1], th[2246][2]),'')
 # print(res.subcategory)
 
-th = read_csv('classifiedData/final_output2.csv',False)
-print(th[0])
+# th = read_csv('classifiedData/final_output2.csv',False)
+# print(th[0])
 
 
