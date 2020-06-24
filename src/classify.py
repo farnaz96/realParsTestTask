@@ -277,6 +277,9 @@ def merg_results():
     d1 = pd.DataFrame(raw_data[1:len(raw_data)],columns=raw_data[0])
     d2 = pd.DataFrame(classified_data[1:len(classified_data)],columns=classified_data[0])
     outer_merged = pd.merge(d1, d2, how="outer", on='custom_fields[pid]')
+    # write the headers
+    # TODo check this part working fine
+    write_csv('classifiedData/final_output_temp.csv', raw_data[0].concat(classified_data[0]))
     for item in outer_merged.values:
         write_csv('classifiedData/final_output_temp.csv',item)
 
@@ -288,9 +291,9 @@ threadLock = threading.Lock()
 file_name = 'rawData/products_part'+ File_Number +'.csv'
 file_name_test = 'rawData/test.csv'
 
-input = read_csv(file_name, True)
-work_with_data(input)
-merg_results()
+# input = read_csv(file_name, True)
+# work_with_data(input)
+# merg_results()
 
 print(Failed_Requests)
 
@@ -305,4 +308,8 @@ print(Failed_Requests)
 # th = read_csv('dataWithInformation/result_library_address_final9.csv',True)
 # res = find_category(DataInformation(th[2246][1], th[2246][2]),'')
 # print(res.subcategory)
+
+th = read_csv('classifiedData/final_output2.csv',False)
+print(th[0])
+
 
