@@ -1,0 +1,4 @@
+SIPLUS HMI KTP700 Basic DP -20...+50آ°C with conformal coating- 6AG1123-2GA03-2AX0
+�
+
+the products from part 2 that are not available in the siemense library: ['6GK5788-2GY01-0AB0', '6GK5788-1GY01-0AB0', '6GK5788-2GY01-0TB0']

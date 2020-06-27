@@ -18,6 +18,7 @@ Failed_Requests = []
 Is_Final_Result_Ready = True
 PID = 26
 File_Number = str(2)
+Thread_Count = 32
 
 
 class DataInformation:
@@ -189,10 +190,15 @@ def find_description(result, rule, index):
         words = item.split('&')
         counter = 0
         for word in words:
-            check_word = " " + word + " "
+            check_word = " " + word.strip() + " "
             if check_word in data_desc:
                 counter = counter + 1
-        if counter == len(words):
+        if '//' in item:
+            line_comment_result = work_on_description_comment(item, data_addr, data_desc)
+            print('data address of te item that has comment ' + data_addr)
+        else:
+            line_comment_result = True
+        if counter == len(words) and line_comment_result:
             if pd.isnull(desc_comment) is not True:
                 desc_comment_result = work_on_description_comment(desc_comment, data_addr, data_desc)
                 if desc_comment_result:
@@ -240,7 +246,7 @@ def work_on_description_comment(description, data_addr, data_desc):
 
 def work_with_data(input):
     line_count = 0
-    thread_count = 16
+    thread_count = Thread_Count
     threads = []
     threads_create = []
     length = int(len(input) / thread_count)
@@ -279,7 +285,7 @@ def merg_results():
     outer_merged = pd.merge(d1, d2, how="outer", on='custom_fields[pid]')
     # write the headers
     # TODo check this part working fine
-    write_csv('classifiedData/final_output_temp.csv', raw_data[0].concat(classified_data[0]))
+    write_csv('classifiedData/final_output_temp.csv', raw_data[0] + classified_data[0])
     for item in outer_merged.values:
         write_csv('classifiedData/final_output_temp.csv',item)
 

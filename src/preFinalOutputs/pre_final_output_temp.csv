@@ -1,92 +1,285 @@
 custom_fields[pid],category,subcategory,group
 6ES7505-0KA00-0AB0,PLC,PLC Hardware,Power Supply
+6ES7151-1BA02-0AB0,PLC,Distributed I/O,Communication Module
+6ES7833-1FC02-0YE5,PLC,Software,PLC Programming
+6ES7144-6KD50-0AB0,PLC,Distributed I/O,I/O Module
+6ES7461-3AA01-0AA0,PLC,PLC Hardware,Communication Module
+6ES7833-1FC02-0YA5,PLC,Software,PLC Programming
+6ES7440-1CS00-0YE0,PLC,PLC Hardware,Communication Module
+6ES7807-3BA01-0YA1,PLC,Software,PLC Programming
+6ES7414-5HM06-0AB0,PLC,PLC Hardware,CPU
+6ES7807-3BA01-0YA0,PLC,Software,PLC Programming
+6ES7417-5HT06-0AB0,PLC,PLC Hardware,CPU
+6ES7416-5HS06-0AB0,PLC,PLC Hardware,CPU
+6ES7412-5HK06-0AB0,PLC,PLC Hardware,CPU
+6ES7431-7KF00-6AA0,PLC,PLC Hardware,PLC Accessories
+6ES7154-3AB00-0AB0,PLC,Distributed I/O,Communication Module
 6ES7312-5BF04-0AB0,PLC,PLC Hardware,CPU
 6ES7317-6FF04-0AB0,PLC,PLC Hardware,CPU
 6ES7317-2AK14-0AB0,PLC,PLC Hardware,CPU
 6ES7314-6CH04-0AB0,PLC,PLC Hardware,CPU
+6ES7658-1EX00-2YL8,PLC,Software,PLC Programming
 6ES7314-6BH04-0AB0,PLC,PLC Hardware,CPU
 6ES7313-6CG04-0AB0,PLC,PLC Hardware,CPU
 6ES7313-6BG04-0AB0,PLC,PLC Hardware,CPU
+6ES7972-4AA50-0XA0,PLC,Profinet,Network Component
 6ES7313-5BG04-0AB0,PLC,PLC Hardware,CPU
-6ES7314-6EH04-0AB0,PLC,PLC Hardware,CPU
-6ES7352-5AH11-0AE0,PLC,PLC Hardware,Function Module
-6ES7352-5AH01-0AE0,PLC,PLC Hardware,Function Module
-6ES7351-1AH02-0AE0,PLC,PLC Hardware,Function Module
-6ES7318-3EL01-0AB0,PLC,PLC Hardware,CPU
-6ES7318-3FL01-0AB0,PLC,PLC Hardware,CPU
-6ES7317-2FK14-0AB0,PLC,PLC Hardware,CPU
-6ES7315-2EH14-0AB0,PLC,PLC Hardware,CPU
-6ES7317-2EK14-0AB0,PLC,PLC Hardware,CPU
-6ES7315-2FJ14-0AB0,PLC,PLC Hardware,CPU
-6ES7326-1BK02-0AB0,PLC,PLC Hardware,I/O Module
-6ES7315-6FF04-0AB0,PLC,PLC Hardware,CPU
-6ES7314-1AG14-0AB0,PLC,PLC Hardware,CPU
-6ES7312-1AE14-0AB0,PLC,PLC Hardware,CPU
-6ES7315-2AH14-0AB0,PLC,PLC Hardware,CPU
-6ES7350-2AH01-0AE0,PLC,PLC Hardware,Function Module
-6ES7352-1AH02-0AE0,PLC,PLC Hardware,Function Module
-6ES7327-1BH00-0AB0,PLC,PLC Hardware,I/O Module
-6ES7350-1AH03-0AE0,PLC,PLC Hardware,Function Module
-6ES7338-4BC01-0AB0,PLC,PLC Hardware,Function Module
-6ES7870-1AB01-0YA1,PLC,Software,Device & Network Configuration
-6ES7870-1AB01-0YA0,PLC,Software,Device & Network Configuration
-6ES7870-1AA01-0YA1,PLC,Software,Device & Network Configuration
-6ES7870-1AA01-0YA0,PLC,Software,Device & Network Configuration
-6ES7355-2SH00-0AE0,PLC,PLC Hardware,Function Module
-6ES7355-2CH00-0AE0,PLC,PLC Hardware,Function Module
-6ES7511-1AK02-0AB0,PLC,PLC Hardware,CPU
-6ES7518-4FX00-1AC0,PLC,PLC Hardware,CPU
-6ES7518-4AX00-1AC0,PLC,PLC Hardware,CPU
-6ES7513-1FL02-0AB0,PLC,PLC Hardware,CPU
-6ES7516-3UN00-0AB0,PLC,PLC Hardware,CPU
-6ES7516-3TN00-0AB0,PLC,PLC Hardware,CPU
 6ES7505-0RB00-0AB0,PLC,PLC Hardware,Power Supply
 6ES7511-1UK01-0AB0,PLC,PLC Hardware,CPU
 6ES7515-2UM01-0AB0,PLC,PLC Hardware,CPU
+6ES7553-1AA00-0AB0,PLC,PLC Hardware,I/O Module
+6ES7314-6EH04-0AB0,PLC,PLC Hardware,CPU
+6ES7352-5AH11-0AE0,PLC,PLC Hardware,Function Module
 6ES7517-3UP00-0AB0,PLC,PLC Hardware,CPU
+6ES7352-5AH01-0AE0,PLC,PLC Hardware,Function Module
 6ES7517-3TP00-0AB0,PLC,PLC Hardware,CPU
+6ES7964-2AA04-0AB0,PLC,PLC Hardware,PLC Accessories
+6ES7351-1AH02-0AE0,PLC,PLC Hardware,Function Module
+6DD1661-0AD1,PLC,PLC Hardware,Communication Module
+6ES7318-3EL01-0AB0,PLC,PLC Hardware,CPU
+6ES7318-3FL01-0AB0,PLC,PLC Hardware,CPU
 6ES7515-2TM01-0AB0,PLC,PLC Hardware,CPU
+6ES7136-6DC00-0CA0,PLC,Distributed I/O,I/O Module
+6ES7461-3AA00-7AA0,PLC,PLC Hardware,Communication Module
+6ES7317-2FK14-0AB0,PLC,PLC Hardware,CPU
+6ES7315-2EH14-0AB0,PLC,PLC Hardware,CPU
+6ES7317-2EK14-0AB0,PLC,PLC Hardware,CPU
+6ES7155-6AU01-0BN0,PLC,Distributed I/O,Communication Module
+6ES7315-2FJ14-0AB0,PLC,PLC Hardware,CPU
+6ES7331-7SF00-0AB0,PLC,PLC Hardware,I/O Module
+6ES7326-2BF41-0AB0,PLC,PLC Hardware,I/O Module
+6ES7326-1BK02-0AB0,PLC,PLC Hardware,I/O Module
+6ES7864-0AC01-0YX0,PLC,Software,PLC Programming
 6ES7511-1TK01-0AB0,PLC,PLC Hardware,CPU
-6ES7323-1BL00-0AA0,PLC,PLC Hardware,I/O Module
+6ES7151-1CA00-3BL0,PLC,Distributed I/O,Communication Module
+6ES7151-1CA00-1BL0,PLC,Distributed I/O,Communication Module
+6ES7862-0AC01-0YA1,PLC,Software,PLC Programming
+6ES7862-0AC01-0YA0,PLC,Software,PLC Programming
+6ES7532-5ND00-0AB0,PLC,PLC Hardware,I/O Module
+6ES7315-6FF04-0AB0,PLC,PLC Hardware,CPU
 6ES7531-7PF00-0AB0,PLC,PLC Hardware,I/O Module
+6ES7323-1BL00-0AA0,PLC,PLC Hardware,I/O Module
+6ES7314-1AG14-0AB0,PLC,PLC Hardware,CPU
 6ES7531-7NF00-0AB0,PLC,PLC Hardware,I/O Module
+6ES7312-1AE14-0AB0,PLC,PLC Hardware,CPU
+6ES7416-3XS07-0AB0,PLC,PLC Hardware,CPU
+6ES7416-2XP07-0AB0,PLC,PLC Hardware,CPU
+6ES7416-2FP07-0AB0,PLC,PLC Hardware,CPU
+6ES7155-5AA00-0AA0,PLC,Distributed I/O,Communication Module
+6ES7414-3XM07-0AB0,PLC,PLC Hardware,CPU
+6ES7414-2XL07-0AB0,PLC,PLC Hardware,CPU
+6ES7315-2AH14-0AB0,PLC,PLC Hardware,CPU
+6ES7412-2XK07-0AB0,PLC,PLC Hardware,CPU
+6ES7412-1XJ07-0AB0,PLC,PLC Hardware,CPU
+6ES7526-2BF00-0AB0,PLC,PLC Hardware,I/O Module
 6ES7526-1BH00-0AB0,PLC,PLC Hardware,I/O Module
-6ES7390-1AE80-0AA0,PLC,PLC Hardware,Accessories
-6ES7374-2XH01-0AA0,PLC,PLC Hardware,I/O Module
-6ES7370-0AA01-0AA0,PLC,PLC Hardware,I/O Module
+6ES7417-4XT07-0AB0,PLC,PLC Hardware,CPU
+6ES7331-7PE10-0AB0,PLC,PLC Hardware,I/O Module
+6ES7155-6AU00-0DN0,PLC,Distributed I/O,Communication Module
+6ES7416-3ES07-0AB0,PLC,PLC Hardware,CPU
+6ES7148-6JD00-0AB0,PLC,Distributed I/O,Communication Module
+6ES7414-3EM07-0AB0,PLC,PLC Hardware,CPU
+6ES7803-0CA01-0YX2,PLC,Software,PLC Programming
+6ES7412-2EK07-0AB0,PLC,PLC Hardware,CPU
+6ES7841-0CA01-0YX2,PLC,Software,PLC Programming
+6ES7522-1BL01-0AB0,PLC,PLC Hardware,I/O Module
+6ES7350-2AH01-0AE0,PLC,PLC Hardware,Function Module
+6ES7194-4AC00-0AA0,PLC,Distributed I/O,Communication Module
+6ES7840-0CA01-0YX2,PLC,Software,PLC Programming
 6ES7521-7EH00-0AB0,PLC,PLC Hardware,I/O Module
+6ES7833-1CC00-6YX0,PLC,Software,PLC Programming
+6ES7138-4DD01-0AB0,PLC,Distributed I/O,Function Module
+6ES7390-1AE80-0AA0,PLC,PLC Hardware,Accessories
+6ES7352-1AH02-0AE0,PLC,PLC Hardware,Function Module
+6ES7153-4BA00-0XB0,PLC,Distributed I/O,Communication Module
+6ES7374-2XH01-0AA0,PLC,PLC Hardware,I/O Module
+6ES7138-4DC01-0AB0,PLC,Distributed I/O,Function Module
+6ES7403-1JA11-0AA0,PLC,PLC Hardware,PLC Accessories
+6ES7370-0AA01-0AA0,PLC,PLC Hardware,I/O Module
+6ES7400-1TA11-0AA0,PLC,PLC Hardware,PLC Accessories
 6ES7591-1AA01-0AA0,PLC,PLC Hardware,CPU
+6ES7403-1TA11-0AA0,PLC,PLC Hardware,PLC Accessories
 6ES7515-2FM01-0AB0,PLC,PLC Hardware,CPU
 6ES7515-2AM01-0AB0,PLC,PLC Hardware,CPU
+6ES7461-0AA01-0AA0,PLC,PLC Hardware,Communication Module
+6ES7461-0AA00-7AA0,PLC,PLC Hardware,Communication Module
 6ES7516-3FN01-0AB0,PLC,PLC Hardware,CPU
 6ES7516-3AN01-0AB0,PLC,PLC Hardware,CPU
+6ES7460-3AA01-0AB0,PLC,PLC Hardware,Communication Module
+6ES7405-0RA02-0AA0,PLC,PLC Hardware,Power Supply
+6ES7460-0AA01-0AB0,PLC,PLC Hardware,Communication Module
+6ES7455-1VS00-0AE0,PLC,PLC Hardware,Function Module
+6ES7455-0VS00-0AE0,PLC,PLC Hardware,Function Module
+6ES7522-5FH00-0AB0,PLC,PLC Hardware,I/O Module
+6ES7453-3AH00-0AE0,PLC,PLC Hardware,Function Module
+6ES7403-1TA01-0AA0,PLC,PLC Hardware,PLC Accessories
+6ES7403-1JA01-0AA0,PLC,PLC Hardware,PLC Accessories
+6ES7401-2TA01-0AA0,PLC,PLC Hardware,PLC Accessories
+6ES7400-2JA00-0AA0,PLC,PLC Hardware,PLC Accessories
+6DD1661-0AE1,PLC,PLC Hardware,Communication Module
+6ES7400-1TA01-0AA0,PLC,PLC Hardware,PLC Accessories
+6ES7400-1JA01-0AA0,PLC,PLC Hardware,PLC Accessories
 6ES7365-0BA01-0AA0,PLC,PLC Hardware,Communication Module
 6ES7361-3CA01-0AA0,PLC,PLC Hardware,Communication Module
 6ES7360-3AA01-0AA0,PLC,PLC Hardware,Communication Module
-6ES7355-1VH10-0AE0,PLC,PLC Hardware,Function Module
-6ES7355-0VH10-0AE0,PLC,PLC Hardware,Function Module
+6ES7355-1VH10-0AE0,PLC,PLC Hardware,I/O Module
+6ES7552-1AA00-0AB0,PLC,PLC Hardware,I/O Module
+6ES7355-0VH10-0AE0,PLC,PLC Hardware,I/O Module
+6ES7545-5DA00-0AB0,PLC,Distributed I/O,Communication Module
+6ES7405-0KR02-0AA0,PLC,PLC Hardware,Power Supply
 6ES7517-3FP00-0AB0,PLC,PLC Hardware,CPU
+6ES7407-0RA02-0AA0,PLC,PLC Hardware,Power Supply
 6ES7517-3AP00-0AB0,PLC,PLC Hardware,CPU
+6ES7407-0KR02-0AA0,PLC,PLC Hardware,Power Supply
+6ES7154-2AA01-0AB0,PLC,Distributed I/O,Communication Module
+6ES7138-4DF11-0AB0,PLC,Distributed I/O,Function Module
+6ES7407-0KA02-0AA0,PLC,PLC Hardware,Power Supply
+6ES7138-4DF01-0AB0,PLC,Distributed I/O,Function Module
+6ES7407-0DA02-0AA0,PLC,PLC Hardware,Power Supply
+6ES7405-0DA02-0AA0,PLC,PLC Hardware,Power Supply
+6ES7138-6DB00-0BB1,PLC,Distributed I/O,Function Module
+6ES7138-4DE02-0AB0,PLC,Distributed I/O,Function Module
+6ES7154-1AA01-0AB0,PLC,Distributed I/O,Communication Module
+6ES7138-4DA04-0AB0,PLC,Distributed I/O,Function Module
+6ES7151-1AA06-0AB0,PLC,Distributed I/O,Communication Module
+6ES7138-4DL00-0AB0,PLC,Distributed I/O,Function Module
+6ES7492-2XX00-0AA0,PLC,PLC Hardware,PLC Accessories
+6ES7153-2BA10-0XB0,PLC,Distributed I/O,Communication Module
+6ES7532-5NB00-0AB0,PLC,PLC Hardware,I/O Module
 6ES7531-7QD00-0AB0,PLC,PLC Hardware,I/O Module
 6ES7534-7QE00-0AB0,PLC,PLC Hardware,I/O Module
+6ES7331-7PF11-0AB0,PLC,PLC Hardware,I/O Module
+6ES7492-1CL00-0AA0,PLC,PLC Hardware,PLC Accessories
+6ES7492-1BL00-0AA0,PLC,PLC Hardware,PLC Accessories
+6ES7492-1AL00-0AA0,PLC,PLC Hardware,PLC Accessories
+6ES7155-6AR00-0AN0,PLC,Distributed I/O,Communication Module
+6ES7490-1AA00-0AA0,PLC,PLC Hardware,PLC Accessories
+6ES7400-2JA10-0AA0,PLC,PLC Hardware,PLC Accessories
+6ES7490-0AB00-0AA0,PLC,PLC Hardware,PLC Accessories
+6ES7400-1JA11-0AA0,PLC,PLC Hardware,PLC Accessories
+6ES7490-0AA00-0AA0,PLC,PLC Hardware,PLC Accessories
+6ES7452-1AH00-0AE0,PLC,PLC Hardware,Function Module
+6ES7451-3AL00-0AE0,PLC,PLC Hardware,Function Module
+6ES7405-0KA02-0AA0,PLC,PLC Hardware,Power Supply
 6ES7521-1BL10-0AA0,PLC,PLC Hardware,I/O Module
 6ES7521-1BH10-0AA0,PLC,PLC Hardware,I/O Module
 6ES7518-4FP00-0AB0,PLC,PLC Hardware,CPU
 6ES7518-4AP00-0AB0,PLC,PLC Hardware,CPU
+6ES7811-0CA01-0YX2,PLC,Software,PLC Programming
+6ES7327-1BH00-0AB0,PLC,PLC Hardware,I/O Module
+6DD1681-0DH1,PLC,PLC Hardware,Communication Module
+6DD1681-0AJ1,PLC,PLC Hardware,Communication Module
+6ES7138-6CG00-0BA0,PLC,Distributed I/O,Function Module
+6DD1681-0AG2,PLC,PLC Hardware,Communication Module
+6ES7350-1AH03-0AE0,PLC,PLC Hardware,Function Module
+6DD1681-0AF4,PLC,PLC Hardware,Communication Module
+6ES7338-4BC01-0AB0,PLC,PLC Hardware,Function Module
 6ES7317-7UL10-0AB0,PLC,PLC Hardware,CPU
 6ES7315-7TJ10-0AB0,PLC,PLC Hardware,CPU
+6DD1681-0AE2,PLC,PLC Hardware,Communication Module
 6ES7317-7TK10-0AB0,PLC,PLC Hardware,CPU
+6ES7551-1AB00-0AB0,PLC,PLC Hardware,I/O Module
+6ES7148-6JA00-0AB0,PLC,Distributed I/O,Communication Module
+6DD1660-0BG0,PLC,PLC Hardware,Communication Module
+6ES7151-1CA00-0AB0,PLC,Distributed I/O,Communication Module
+6ES7151-3BB23-0AB0,PLC,Distributed I/O,Communication Module
+6DD1660-0BF0,PLC,PLC Hardware,Communication Module
+6DD1684-0GD0,PLC,Cable & Wire,Industrial Cable
+6ES7195-7HD10-0XA0,PLC,PLC Hardware,PLC Accessories
+6ES7322-5GH00-0AB0,PLC,PLC Hardware,I/O Module
+6DD1684-0GC0,PLC,Cable & Wire,Industrial Cable
+6ES7144-6KD00-0AB0,PLC,Distributed I/O,I/O Module
+6DD1640-0AH0,PLC,PLC Hardware,I/O Module
+6ES7157-1AA00-0AB0,PLC,Distributed I/O,Communication Module
+6ES7492-2DX00-0AA0,PLC,Marking & Labeling,Equipment Marking
+6ES7145-6HD00-0AB0,PLC,Distributed I/O,I/O Module
 6ES7174-0AA10-0AA0,PLC,PLC Hardware,Function Module
+6ES7492-2CX00-0AA0,PLC,Marking & Labeling,Equipment Marking
+6ES7807-4BA03-0YA1,PLC,Software,PLC Programming
+6ES7492-2BX00-0AA0,PLC,Marking & Labeling,Equipment Marking
+6ES7807-4BA03-0YA0,PLC,Software,PLC Programming
+6ES7492-2AX00-0AA0,PLC,Marking & Labeling,Equipment Marking
+6ES7960-1AA06-0XA0,PLC,PLC Hardware,PLC Accessories
+6ES7401-1DA01-0AA0,PLC,PLC Hardware,PLC Accessories
+6ES7960-1AB06-0XA0,PLC,PLC Hardware,PLC Accessories
+6ES7322-5HF00-0AB0,PLC,PLC Hardware,I/O Module
+6ES7153-4AA01-0XB0,PLC,Distributed I/O,Communication Module
+6DD1681-0GK0,PLC,PLC Hardware,Communication Module
+6ES7355-2SH00-0AE0,PLC,PLC Hardware,I/O Module
+6ES7355-2CH00-0AE0,PLC,PLC Hardware,I/O Module
+6ES7157-1AB00-0AB0,PLC,Distributed I/O,Communication Module
+6ES7492-1CL00-1AB0,PLC,PLC Hardware,PLC Accessories
+6ES7492-1AL00-1AB0,PLC,PLC Hardware,PLC Accessories
+6ES7136-6AA00-0CA1,PLC,Distributed I/O,I/O Module
+6ES7195-7KF00-0XA0,PLC,PLC Hardware,I/O Module
+6ES7870-1AB01-0YA1,PLC,Software,Device & Network Configuration
+6ES7870-1AB01-0YA0,PLC,Software,Device & Network Configuration
+6ES7870-1AA01-0YA1,PLC,Software,Device & Network Configuration
 6ES7590-5CA00-0AA0,PLC,PLC Hardware,PLC Accessories
+6ES7153-1AA03-0XB0,PLC,Distributed I/O,Communication Module
+6ES7870-1AA01-0YA0,PLC,Software,Device & Network Configuration
 6ES7590-1BC00-0AA0,PLC,PLC Hardware,PLC Accessories
 6ES7590-0AA00-0AA0,PLC,PLC Hardware,PLC Accessories
+6ES7860-4AA01-0YX0,PLC,Software,PLC Programming
+6ES7155-5AA00-0AC0,PLC,Distributed I/O,Communication Module
+6ES7550-1AA00-0AB0,PLC,PLC Hardware,I/O Module
+6ES7138-6BA00-0BA0,PLC,Distributed I/O,Function Module
 6ES7541-1AD00-0AB0,PLC,PLC Hardware,Communication Module
 6ES7541-1AB00-0AB0,PLC,PLC Hardware,Communication Module
 6ES7540-1AD00-0AA0,PLC,PLC Hardware,Communication Module
+6ES7322-1HF10-0AA0,PLC,PLC Hardware,I/O Module
 6ES7540-1AB00-0AA0,PLC,PLC Hardware,Communication Module
+6ES7322-1HF01-0AA0,PLC,PLC Hardware,I/O Module
+6ES7864-1CC42-0YA5,PLC,Software,PLC Programming
+6ES7532-5HD00-0AB0,PLC,PLC Hardware,I/O Module
+6DD1660-0BJ0,PLC,PLC Hardware,PLC Accessories
 6ES7531-7NF10-0AB0,PLC,PLC Hardware,I/O Module
+6ES7522-5HF00-0AB0,PLC,PLC Hardware,I/O Module
+6ES7522-5FF00-0AB0,PLC,PLC Hardware,I/O Module
+6ES7522-1BF00-0AB0,PLC,PLC Hardware,I/O Module
 6ES7521-1FH00-0AA0,PLC,PLC Hardware,I/O Module
 6ES7521-1BL00-0AB0,PLC,PLC Hardware,I/O Module
 6ES7521-1BH50-0AA0,PLC,PLC Hardware,I/O Module
 6ES7521-1BH00-0AB0,PLC,PLC Hardware,I/O Module
 6ES7507-0RA00-0AB0,PLC,PLC Hardware,Power Supply
+6ES7155-5BA00-0AB0,PLC,Distributed I/O,Communication Module
+6ES7136-6PA00-0BC0,PLC,Distributed I/O,I/O Module
+6ES7511-1AK02-0AB0,PLC,PLC Hardware,CPU
+6ES7136-6DB00-0CA0,PLC,Distributed I/O,I/O Module
+6ES7518-4FX00-1AC0,PLC,PLC Hardware,CPU
+6ES7151-3BA23-0AB0,PLC,Distributed I/O,Communication Module
+6ES7518-4AX00-1AC0,PLC,PLC Hardware,CPU
+6ES7136-6BA00-0CA0,PLC,Distributed I/O,I/O Module
+6ES7151-3AA23-0AB0,PLC,Distributed I/O,Communication Module
+6ES7513-1FL02-0AB0,PLC,PLC Hardware,CPU
+6ES7516-3UN00-0AB0,PLC,PLC Hardware,CPU
+6ES7516-3TN00-0AB0,PLC,PLC Hardware,CPU
+6ES7155-5AA01-0AB0,PLC,Distributed I/O,Communication Module
+6ES7803-0CC03-0YE5,PLC,Software,PLC Programming
+6ES7803-0CC03-0YA5,PLC,Software,PLC Programming
+6ES7841-0CC05-0YE5,PLC,Software,PLC Programming
+6ES7841-0CC05-0YA5,PLC,Software,PLC Programming
+6ES7820-0CC04-0YA5,PLC,Software,PLC Programming
+6ES7820-0CC04-0YE5,PLC,Software,PLC Programming
+6ES7154-4AB10-0AB0,PLC,Distributed I/O,Communication Module
+6ES7138-4DB03-0AB0,PLC,Distributed I/O,Function Module
+6ES7137-6BD00-0BA0,PLC,Distributed I/O,Communication Module
+6ES7137-6AA00-0BA0,PLC,Distributed I/O,Communication Module
+6ES7822-1AA05-0XC5,PLC,Software,PLC Programming
+6ES7810-5CE12-0YB5,PLC,Software,PLC Programming
+6ES7810-5CC12-0YA5,PLC,Software,PLC Programming
+6ES7810-4CC11-0JE5,PLC,Software,PLC Programming
+6ES7810-4CC11-0JA5,PLC,Software,PLC Programming
+6ES7810-4CC11-0KE5,PLC,Software,PLC Programming
+6ES7810-4CC11-0KA5,PLC,Software,PLC Programming
+6ES7811-0CC07-0YE5,PLC,Software,PLC Programming
+6ES7811-0CC07-0YA5,PLC,Software,PLC Programming
+6ES7810-4CC11-0YE5,PLC,Software,PLC Programming
+6DD1682-0CH3,PLC,PLC Hardware,PLC Accessories
+6ES7810-4CC11-0YA6,PLC,Software,PLC Programming
+6DD1600-0BB0,PLC,PLC Hardware,CPU
+6ES7810-4CC11-0YA5,PLC,Software,PLC Programming
+6ES7672-7FC01-0YG0,PLC,Software,PLC Programming
+6ES7672-7FC01-0YA0,PLC,Software,PLC Programming
+6ES7672-7AC01-0YG0,PLC,Software,PLC Programming
+6ES7672-7AC01-0YA0,PLC,Software,PLC Programming
