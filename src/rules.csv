@@ -335,9 +335,7 @@ Automation Technology>Automation systems>Simatic Industrial Automation Systems>I
 Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200AL>Interface modules,,Distributed I/O,Communication Module
 Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200AL>I/O modules,"//branches:Digital I/O modules, Analog I/O modules//",Distributed I/O,I/O Module
 Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200AL>I/O modules,//branches:Communication//,Distributed I/O,Communication Module
-Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200AL>Accessories,"//start:bus cable//
-//start:connecting cable//
-//start:power cable//",Cable & Wire,Industrial Cable
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200AL>Accessories,"//start:bus cable,connecting cable,power cable//Type a message",Cable & Wire,Industrial Cable
 Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200eco PN,"DI
 DO
 AI

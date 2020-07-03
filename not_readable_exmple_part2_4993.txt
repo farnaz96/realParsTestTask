@@ -2,3 +2,181 @@ SIPLUS HMI KTP700 Basic DP -20...+50آ°C with conformal coating- 6AG1123-2GA03-
 �
 
 the products from part 2 that are not available in the siemense library: ['6GK5788-2GY01-0AB0', '6GK5788-1GY01-0AB0', '6GK5788-2GY01-0TB0']
+
+
+here there are the errors when we ran algorithm for part2 (products_part2) (Is_Final_Result_Ready = False):
+
+Other error occurred: list index out of range, thread name: Thread-1, data index: 18
+Other error occurred: list index out of range, thread name: Thread-1, data index: 20
+Other error occurred: list index out of range, thread name: Thread-0, data index: 286
+
+
+
+here are the errors when run algorithm for almost all the 50k (products_partAll) (Is_Final_Result_Ready = False) (42000 products):
+
+Other error occurred: list index out of range, thread name: Thread-13, data index: 122, data PID: 3SE5232-0HK52-1AK3
+Other error occurred: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), thread name: Thread-11, data index: 219, data PID: 6XV1440-4BN15
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-0, data index: 206, data PID: 1FK2104-5AK11-1MA0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-15, data index: 202, data PID: 8GK9711-0KK00
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-12, data index: 232, data PID: 3NC1038-2
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-8, data index: 242, data PID: 4AV3601-2EB00-0A
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-13, data index: 236, data PID: 3SE5242-0HK21-1AJ0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-1, data index: 243, data PID: 3RA6120-2DP33
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-2, data index: 237, data PID: 3RT2037-3CL24-3MA0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-0, data index: 230, data PID: 1FK2208-5AC01-0MB0
+Other error occurred: HTTPSConnectionPool(host='mall.industry.siemens.com', port=443): Max retries exceeded with url: /mall/en/en/Catalog/Product/6ES7672-7AC01-0YA0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x11066f100>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')), thread name: Thread-10, data index: 242, data PID: 6ES7672-7AC01-0YA0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-15, data index: 220, data PID: 8GK1112-5KK12
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-9, data index: 257, data PID: 6AG1210-1PE21-2UL0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-12, data index: 233, data PID: 3NC1038-3
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-5, data index: 255, data PID: 3VA2010-6HN36-0KC0
+Other error occurred: HTTPSConnectionPool(host='mall.industry.siemens.com', port=443): Max retries exceeded with url: /mall/en/en/Catalog/Product/4AV3601-2EB00-0C (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10ff437f0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')), thread name: Thread-8, data index: 243, data PID: 4AV3601-2EB00-0C
+Other error occurred: HTTPSConnectionPool(host='mall.industry.siemens.com', port=443): Max retries exceeded with url: /mall/en/en/Catalog/Product/3SE5242-0MC05 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10ff43400>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')), thread name: Thread-13, data index: 237, data PID: 3SE5242-0MC05
+Other error occurred: HTTPSConnectionPool(host='mall.industry.siemens.com', port=443): Max retries exceeded with url: /mall/en/en/Catalog/Product/3RA6120-2EB32 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10ff43f10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')), thread name: Thread-1, data index: 244, data PID: 3RA6120-2EB32
+Other error occurred: HTTPSConnectionPool(host='mall.industry.siemens.com', port=443): Max retries exceeded with url: /mall/en/en/Catalog/Product/3RT2038-1AK60 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10ff43dc0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')), thread name: Thread-2, data index: 238, data PID: 3RT2038-1AK60
+Other error occurred: HTTPSConnectionPool(host='mall.industry.siemens.com', port=443): Max retries exceeded with url: /mall/en/en/Catalog/Product/3VA2163-5MN32-0BH0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10ff22280>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')), thread name: Thread-6, data index: 294, data PID: 3VA2163-5MN32-0BH0
+Other error occurred: HTTPSConnectionPool(host='mall.industry.siemens.com', port=443): Max retries exceeded with url: /mall/en/en/Catalog/Product/1FK2104-6AF10-1SA0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10ff22e50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')), thread name: Thread-0, data index: 231, data PID: 1FK2104-6AF10-1SA0
+Other error occurred: HTTPSConnectionPool(host='mall.industry.siemens.com', port=443): Max retries exceeded with url: /mall/en/en/Catalog/Product/6ES7672-7AC01-0YG0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10eaca1c0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')), thread name: Thread-10, data index: 243, data PID: 6ES7672-7AC01-0YG0
+Other error occurred: HTTPSConnectionPool(host='mall.industry.siemens.com', port=443): Max retries exceeded with url: /mall/en/en/Catalog/Product/8GK1112-5KK22 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10eaca4f0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')), thread name: Thread-15, data index: 221, data PID: 8GK1112-5KK22
+Other error occurred: HTTPSConnectionPool(host='mall.industry.siemens.com', port=443): Max retries exceeded with url: /mall/en/en/Catalog/Product/3VA1125-6EF32-0JC0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10eaca820>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')), thread name: Thread-4, data index: 287, data PID: 3VA1125-6EF32-0JC0
+Other error occurred: HTTPSConnectionPool(host='mall.industry.siemens.com', port=443): Max retries exceeded with url: /mall/en/en/Catalog/Product/6AG1210-1PE23-2UL0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10eacab50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')), thread name: Thread-9, data index: 258, data PID: 6AG1210-1PE23-2UL0
+Other error occurred: HTTPSConnectionPool(host='mall.industry.siemens.com', port=443): Max retries exceeded with url: /mall/en/en/Catalog/Product/6SL3710-1GE32-6CA3 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10eacae80>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')), thread name: Thread-11, data index: 246, data PID: 6SL3710-1GE32-6CA3
+Other error occurred: HTTPSConnectionPool(host='mall.industry.siemens.com', port=443): Max retries exceeded with url: /mall/en/en/Catalog/Product/3VA5130-4ED21-1AA0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10ead71f0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')), thread name: Thread-7, data index: 269, data PID: 3VA5130-4ED21-1AA0
+Other error occurred: HTTPSConnectionPool(host='mall.industry.siemens.com', port=443): Max retries exceeded with url: /mall/en/en/Catalog/Product/3NC1091 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x11031d5e0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')), thread name: Thread-12, data index: 234, data PID: 3NC1091
+Other error occurred: HTTPSConnectionPool(host='mall.industry.siemens.com', port=443): Max retries exceeded with url: /mall/en/en/Catalog/Product/3VA2010-5HN36-0KH0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10ff43d60>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')), thread name: Thread-5, data index: 256, data PID: 3VA2010-5HN36-0KH0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-9, data index: 267, data PID: 6AG1803-4BA00-7AA0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-13, data index: 263, data PID: 3SE5413-0CD20-1EA2
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-11, data index: 274, data PID: 6SL3710-1GF35-8CA3
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-4, data index: 317, data PID: 3VA1132-3EF36-0CC0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-2, data index: 265, data PID: 3RT2336-1AM20
+Other error occurred: list index out of range, thread name: Thread-1, data index: 322, data PID: 3RF2330-1DA44-1KM0
+Other error occurred: list index out of range, thread name: Thread-2, data index: 345, data PID: 3RT2337-1DA40
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-0, data index: 349, data PID: 1FK2204-6AF11-0SA0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-1, data index: 354, data PID: 3RA6500-1DB42
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-15, data index: 313, data PID: 8GK1312-8KK52
+Other error occurred: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), thread name: Thread-9, data index: 394, data PID: 6AG1132-6HD01-7BB1
+Other error occurred: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), thread name: Thread-8, data index: 385, data PID: 4AM6142-4TJ10-0FA0
+Other error occurred: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), thread name: Thread-5, data index: 421, data PID: 3VA2010-5HN32-0KC0
+Other error occurred: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), thread name: Thread-6, data index: 466, data PID: 3VA2163-7MN36-0DC0
+Other error occurred: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), thread name: Thread-15, data index: 331, data PID: 8GK4002-8KK12
+Other error occurred: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), thread name: Thread-4, data index: 454, data PID: 3VA1125-6EF32-0AG0
+Other error occurred: HTTPSConnectionPool(host='mall.industry.siemens.com', port=443): Max retries exceeded with url: /mall/en/en/Catalog/Product/6SL3730-7TG41-3BA3 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10efd76d0>: Failed to establish a new connection: [Errno 60] Operation timed out')), thread name: Thread-11, data index: 383, data PID: 6SL3730-7TG41-3BA3
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-10, data index: 475, data PID: 6FX2001-4NA50
+Other error occurred: ('Connection aborted.', OSError(0, 'Error')), thread name: Thread-13, data index: 624, data PID: 3SU1050-5BL21-0AA0-ZX90
+Other error occurred: list index out of range, thread name: Thread-2, data index: 748, data PID: 3RT2336-1NP30-0JB0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-5, data index: 1220, data PID: 3VA2110-7JQ42-0AA0
+Other error occurred: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), thread name: Thread-6, data index: 1321, data PID: 3VA2340-5JQ42-0AG0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-8, data index: 1242, data PID: 4RB5208-3GK50
+Other error occurred: ('Connection aborted.', OSError(0, 'Error')), thread name: Thread-5, data index: 1474, data PID: 3VA2063-5KP32-0DC0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-9, data index: 1271, data PID: 6AV6371-1DQ17-2BC0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-12, data index: 1277, data PID: 3RH2131-1AV60
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-8, data index: 1243, data PID: 4RB5250-3EA50
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-0, data index: 1260, data PID: 3KC9831-1
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-10, data index: 1318, data PID: 6GK5308-2FL10-2AA3
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-2, data index: 1352, data PID: 3RV2342-4RC10
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-10, data index: 1356, data PID: 6GK6000-8CG04-2EA0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-2, data index: 1575, data PID: 3RW4443-2BC36
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-6, data index: 1930, data PID: 3VA2440-5HN32-0DL0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-0, data index: 1504, data PID: 3KL5330-1AJ01
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-13, data index: 1304, data PID: 3SU1130-7AF10-1QA0-ZX90
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-8, data index: 1461, data PID: 5SU1324-7FA10
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-4, data index: 1885, data PID: 3VA1140-6EF32-0KA0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-12, data index: 1583, data PID: 3RT1966-1PV3
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-11, data index: 1655, data PID: 8MF6824-4E
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-5, data index: 1842, data PID: 3VA2110-5MN32-0CL0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-2, data index: 1576, data PID: 3RW4434-6BC35
+Other error occurred: list index out of range, thread name: Thread-10, data index: 1581, data PID: 6GK5788-1GY01-0AB0
+Other error occurred: list index out of range, thread name: Thread-10, data index: 1583, data PID: 6GK5788-2GY01-0AB0
+Other error occurred: list index out of range, thread name: Thread-10, data index: 1626, data PID: 6GK5788-2GY01-0TB0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-10, data index: 1730, data PID: 6NH7997-5CA21-0AA3
+Other error occurred: ('Connection aborted.', OSError(0, 'Error')), thread name: Thread-10, data index: 1790, data PID: 6SE0100-1AG21-8AA7
+Other error occurred: HTTPSConnectionPool(host='mall.industry.siemens.com', port=443): Read timed out. (read timeout=None), thread name: Thread-9, data index: 1570, data PID: 6AV6371-1HX07-3BX0
+Other error occurred: HTTPSConnectionPool(host='mall.industry.siemens.com', port=443): Read timed out. (read timeout=None), thread name: Thread-7, data index: 1720, data PID: 3VA6210-6KM31-0AA0
+Other error occurred: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), thread name: Thread-11, data index: 1966, data PID: 8PQ2055-8BA10
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-7, data index: 1813, data PID: 3VA6140-7KP31-2AA0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-0, data index: 1817, data PID: 3NC1016
+Other error occurred: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), thread name: Thread-11, data index: 1967, data PID: 8PQ2020-6BA28
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-8, data index: 1727, data PID: 5SL4616-6
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-13, data index: 1506, data PID: 3SU1156-6AA60-3AA0-ZX90
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-5, data index: 2215, data PID: 3VA2125-8HM46-0AA0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-4, data index: 2281, data PID: 3VA1196-3EF32-0KC0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-9, data index: 1656, data PID: 6AV6381-2CA07-4AH0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-2, data index: 1913, data PID: 3RW5226-1TC04
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-11, data index: 1990, data PID: 8MR6411-5LV45
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-10, data index: 1892, data PID: 6GT2398-1CD50-0AX0
+Other error occurred: ('Connection aborted.', OSError(0, 'Error')), thread name: Thread-9, data index: 1767, data PID: 6AV6372-2HG07-4AA0
+Other error occurred: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), thread name: Thread-8, data index: 1823, data PID: 5SM6024-2
+Other error occurred: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), thread name: Thread-5, data index: 2329, data PID: 3VA2140-8JQ32-0AA0
+Other error occurred: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), thread name: Thread-10, data index: 1968, data PID: 6GK8781-1DA01-0AK0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-11, data index: 2052, data PID: 8PQ2015-6BA23
+Other error occurred: HTTPSConnectionPool(host='mall.industry.siemens.com', port=443): Read timed out. (read timeout=None), thread name: Thread-6, data index: 2351, data PID: 3VA2450-5MN32-0AC0
+Other error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), thread name: Thread-8, data index: 2770, data PID: 5SY8132-7
+Other error occurred: list index out of range, thread name: Thread-0, data index: 3119, data PID: 3RA2110-1HA16-1BB4
+
+
+report from running program on 52k products:
+This is thread: 0 in index: 0 in time: 01:08:21.567092 with PID: 1FK7042-2AC71-1QB2
+This is thread: 1 in index: 0 in time: 01:08:21.567602 with PID: 3RA2120-4BH27-0AV0
+This is thread: 2 in index: 0 in time: 01:08:21.568295 with PID: 3RT2326-2BF40
+This is thread: 3 in index: 0 in time: 01:08:21.569261 with PID: 3TC4817-0CB4
+This is thread: 4 in index: 0 in time: 01:08:21.570611 with PID: 3VA1116-5EE42-0AA0
+This is thread: 5 in index: 0 in time: 01:08:21.571771 with PID: 3VA2025-5HL36-0AA0
+This is thread: 6 in index: 0 in time: 01:08:21.574953 with PID: 3VA2225-5HN32-0AC0
+This is thread: 7 in index: 0 in time: 01:08:21.578202 with PID: 3VA2580-5KQ32-0KL0
+This is thread: 8 in index: 0 in time: 01:08:21.582401 with PID: 3VW9011-0BA87
+This is thread: 9 in index: 0 in time: 01:08:21.585349 with PID: 6AG1101-1BB00-4AA3
+This is thread: 10 in index: 0 in time: 01:08:21.586750 with PID: 6ES7952-1AM00-0AA0
+This is thread: 11 in index: 0 in time: 01:08:21.589141 with PID: 6SL3210-1NE21-0AG1
+This is thread: 12 in index: 0 in time: 01:08:21.593718 with PID: 8WH9200-0AA00
+This is thread: 13 in index: 0 in time: 01:08:21.600366 with PID: 3SE5212-0LK21
+This is thread: 14 in index: 0 in time: 01:08:21.615288 with PID: 5ST3664-1HG
+This is thread: 15 in index: 0 in time: 01:08:21.621409 with PID: 6XV1870-8GN10
+This is thread: 3 in index: 1000 in time: 02:53:49.859371 with PID: 3VA1032-3ED36-0JC0
+This is thread: 7 in index: 1000 in time: 03:08:25.638643 with PID: 3VA6140-6HN41-2AA0
+This is thread: 5 in index: 1000 in time: 03:20:26.074031 with PID: 3VA2040-7JQ32-0AA0
+This is thread: 0 in index: 1000 in time: 03:26:04.305331 with PID: 3KD3032-0NE10-0
+This is thread: 4 in index: 1000 in time: 03:26:07.211546 with PID: 3VA1116-6GF46-0AA0
+This is thread: 6 in index: 1000 in time: 03:28:11.610305 with PID: 3VA2225-7KP32-0KC0
+This is thread: 12 in index: 1000 in time: 03:33:56.188890 with PID: 3RH2122-1MB40-0KT0
+This is thread: 8 in index: 1000 in time: 03:42:38.472564 with PID: 5SJ4303-8HG42
+This is thread: 10 in index: 1000 in time: 03:47:25.675619 with PID: 6GF9001-1BE01
+This is thread: 1 in index: 1000 in time: 03:49:56.951090 with PID: 3RK1301-0CB20-0AB4
+This is thread: 9 in index: 1000 in time: 04:01:36.684907 with PID: 6AV2105-3FF05-0AE0
+This is thread: 15 in index: 1000 in time: 04:06:28.106331 with PID: 8MF1000-2UW61-1C
+This is thread: 14 in index: 1000 in time: 04:07:24.807889 with PID: 5UB4725
+This is thread: 11 in index: 1000 in time: 04:11:38.538978 with PID: 8MF2084-5E
+This is thread: 3 in index: 2000 in time: 04:28:50.379533 with PID: 3VA1096-4ED32-0CC0
+This is thread: 2 in index: 1000 in time: 04:39:26.881391 with PID: 3RV2021-4CA15
+This is thread: 13 in index: 1000 in time: 05:07:17.686348 with PID: 3SU1030-3EC10-0AA0-ZX90
+This is thread: 7 in index: 2000 in time: 05:10:12.698589 with PID: 3VA6325-6HN31-0AA0
+This is thread: 5 in index: 2000 in time: 05:38:16.777369 with PID: 3VA2110-8KQ36-0AA0
+This is thread: 4 in index: 2000 in time: 05:44:12.794805 with PID: 3VA1150-5ED46-0AA0
+This is thread: 6 in index: 2000 in time: 05:49:13.608367 with PID: 3VA2463-5HL32-0AE0
+This is thread: 1 in index: 2000 in time: 05:51:36.003628 with PID: 3RT1075-6PP35
+This is thread: 3 in index: 3000 in time: 06:01:36.012534 with PID: 3VA1116-5EE32-0KC0
+This is thread: 0 in index: 2000 in time: 06:02:39.096918 with PID: 3NE9330-0MK07
+This is thread: 11 in index: 2000 in time: 06:41:10.516407 with PID: 8MR6423-5LV25
+This is thread: 12 in index: 2000 in time: 06:52:05.682195 with PID: 3RT2024-2BG40
+This is thread: 8 in index: 2000 in time: 06:54:42.392368 with PID: 5SY4320-8
+This is thread: 10 in index: 2000 in time: 07:00:15.598949 with PID: 6GT2811-6CC10-0AA0
+This is thread: 14 in index: 2000 in time: 07:07:25.501281 with PID: 6GT2600-0AE00
+This is thread: 7 in index: 3000 in time: 07:09:41.682711 with PID: 3VL9400-1UM01
+This is thread: 15 in index: 2000 in time: 07:16:10.259536 with PID: 8UC6011
+This is thread: 2 in index: 2000 in time: 07:19:13.909640 with PID: 3RW5243-6AC15
+This is thread: 1 in index: 3000 in time: 07:21:35.157081 with PID: 3RT2028-1AC20-0JA0
+This is thread: 9 in index: 2000 in time: 07:24:03.318562 with PID: 6AV6647-0AG11-3AX0
+This is thread: 5 in index: 3000 in time: 07:44:55.764813 with PID: 3VA2163-6KP46-0AA0
+This is thread: 4 in index: 3000 in time: 07:52:10.289744 with PID: 3VA1220-4EF42-0AB0
+This is thread: 6 in index: 3000 in time: 07:58:21.928996 with PID: 3VA2510-5HN32-0AA0
+This is thread: 0 in index: 3000 in time: 08:17:28.767605 with PID: 3RA2316-8XE30-1BB4
+This is thread: 13 in index: 2000 in time: 08:41:28.369815 with PID: 3TH2022-0AP0
+This is thread: 11 in index: 3000 in time: 08:59:25.637213 with PID: 8PQ6000-7BA30
+This is thread: 10 in index: 3000 in time: 09:05:30.563465 with PID: 6SL3210-1KE14-3UF1
+This is thread: 14 in index: 3000 in time: 09:21:15.020176 with PID: 6XV1870-3RH60
+This is thread: 8 in index: 3000 in time: 09:25:05.431498 with PID: 5TC1061
+This is thread: 12 in index: 3000 in time: 09:29:30.988746 with PID: 3SE5000-0AT01
+This is thread: 15 in index: 3000 in time: 09:41:53.327406 with PID: 8WH9001-2AA00
+This is thread: 9 in index: 3000 in time: 09:44:35.398245 with PID: 6ES7314-1AG14-0AB0
+This is thread: 2 in index: 3000 in time: 09:45:23.764003 with PID: 3SU1150-7BE88-1QA0-ZX90
+This is thread: 13 in index: 3000 in time: 10:03:58.861222 with PID: 5SH5410
+Exiting Main Thread
+[]

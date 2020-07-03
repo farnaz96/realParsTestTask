@@ -1,0 +1,414 @@
+Library Address,Product Description,1st Sub-category,2nd Sub-category
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>LOGO! logic module>LOGO! Basic modules with display,LOGO! & logic module & display,PLC Hardware,CPU
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>LOGO! logic module>LOGO! Basic modules without display,LOGO! & logic module & without display,PLC Hardware,CPU
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>LOGO! logic module>LOGO! Expansion modules,LOGO! & expansion module,PLC Hardware,CPU
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>LOGO! logic module>LOGO! Communication modules>LOGO! CMK2000 communication module,LOGO! & communication module,PLC Hardware,Communication module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>LOGO! logic module>LOGO! Communication modules>LOGO! CSM unmanaged,LOGO! & compact switch module,PLC Hardware,Communication module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>LOGO! logic module>LOGO! Communication modules>LOGO! CMR (wireless communication),LOGO! & communication module,"PLC Hardware
+","Communication module
+"
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>LOGO! logic module>LOGO! Communication modules>AS-Interface connection for LOGO!,LOGO! & AS-Interface function module,"PLC Hardware
+","Communication module
+ "
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>LOGO! logic module>LOGO!Power,LOGO! & power supply,PLC Hardware,Power Supply
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>LOGO! logic module>LOGO! Software,LOGO! & Soft Comfort,Software,PLC Programming
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>LOGO! logic module>LOGO! Accessories>LOGO! Contact switching module,LOGO! & Switching module,"PLC Hardware
+","PLC Accessories
+"
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>LOGO! logic module>LOGO! Accessories>LOGO! Mounting kits,LOGO! & Front Panel Assembly,"PLC Hardware
+","PLC Accessories
+"
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>LOGO! logic module>SIPLUS LOGO!>SIPLUS LOGO! Basic modules with display,SIPLUS LOGO! & display,PLC Hardware,CPU
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>LOGO! logic module>SIPLUS LOGO!>SIPLUS LOGO! Basic modules without display,,PLC Hardware,CPU
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>LOGO! logic module>SIPLUS LOGO!>SIPLUS LOGO! Expansion module,SIPLUS LOGO! & expansion module,PLC Hardware,CPU
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>LOGO! logic module>SIPLUS LOGO!Power,SIPLUS LOGO! & power supply,PLC Hardware,Power Supply
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>LOGO! logic module>SIPLUS LOGO! Accessories,LOGO!+SIPLUS & Front panel assembly,"PLC Hardware
+","PLC Accessories
+"
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Basic controllers>S7-1200>Central Processing Units,"SIMATIC S7-1200, CPU
+ SIMATIC S7-1200F, CPU",PLC Hardware,CPU
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Basic controllers>S7-1200>Central Processing Units,SIPLUS S7-1200 CPU,PLC Hardware,CPU
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Basic controllers>S7-1200>I/O Modules>Digital Modules,"SIMATIC S7-1200 & SM
+ SIMATIC S7-1200 & SB
+ SIPLUS S7-1200 & SM
+ SIPLUS S7-1200 & SB",PLC Hardware,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Basic controllers>S7-1200>I/O Modules>Analog Modules,"SIMATIC S7-1200 & SM
+ SIMATIC S7-1200 & SB
+ SIPLUS S7-1200 & SM
+ SIPLUS S7-1200 & SB",PLC Hardware,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Basic controllers>S7-1200>I/O Modules>Special Modules,"SIMATIC S7-1200 & IO-Link
+ SIPLUS S7-1200 & IO-Link","PLC Hardware
+ ","Communication module
+"
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Basic controllers>S7-1200>I/O Modules>Special Modules,Condition Monitoring,Relay,Monitoring Relay
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Basic controllers>S7-1200>I/O Modules>Special Modules,"SIMATIC S7-1200 & Simulator
+ Battery Board",PLC Hardware,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Basic controllers>S7-1200>I/O Modules>Communication,,PLC Hardware,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Basic controllers>S7-1200>I/O Modules>Communication,Communication & PROFIBUS & DP,PROFIBUS,Network Component
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Basic controllers>S7-1200>I/O Modules>Communication,AS-Interface,AS-Interface,ASI Master / Slave
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Basic controllers>S7-1200>I/O Modules>Fail-safe I/O Modules,SIMATIC S7-1200 & SM,PLC Hardware,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Basic controllers>S7-1200>I/O Modules>SUPLUS Fail-safe digital inputs and outputs,SIPLUS S7-1200 & SM,PLC Hardware,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Basic controllers>S7-1200>Power Supplies,Power Supply,PLC Hardware,Power Supply
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Basic controllers>S7-1200>Operator control and monitoring,"SIMATIC HMI
+ SIPLUS HMI",HMI,Touch screen
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Basic controllers>S7-1200>Operator control and monitoring,Starter Kit,PLC Hardware,Starter Kit
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Basic controllers>S7-1200>Add-on products from third-party manufacturers,,PLC Hardware,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-1500>Central Processing Units,,PLC Hardware,CPU
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-1500>I/O Modules,"DI
+ DQ
+ DO
+ DI & DO
+ DI & DQ",PLC Hardware,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-1500>I/O Modules,"AI
+ AQ
+ AO
+ AI & AO
+ AI & AQ",PLC Hardware,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-1500>I/O Modules>Communication,,PLC Hardware,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-1500>I/O Modules>Communication,"PROFINET
+
+","PROFINET
+
+","Network Component
+ 
+"
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-1500>I/O Modules>Communication,PROFIBUS,PROFIBUS,Network Component
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-1500>I/O Modules>Communication,INDUSTRIAL ETHERNET,INDUSTRIAL ETHERNET,Gateway & Extender
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-1500>I/O Modules>Connection System,"Front Connector
+ //!include:Connecting Cable//",PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-1500>I/O Modules>Connection System,Connecting Cable,Cable & Wire,Industrial Cable
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-1500>I/O Modules>Connection System,"TP1 & Push-in terminal
+ TP2 & Push-in terminal
+ TPRO & Push-in terminal
+ TPRI & Push-in terminal
+ TP3 & Push-in terminal
+ TPOO & Push-in terminal
+","Push-in connection
+","Multi-conductor terminal block
+"
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-1500>I/O Modules>Connection System,"TP1 & Screw terminal
+ TP2 & Screw terminal
+ TPRO & Screw terminal
+ TPRI & Screw terminal
+ TP3 & Screw Terminal
+ TPOO & Screw terminal",Screw Connection,Multi-conductor terminal block
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-1500>I/O Modules>Fail-safe I/O Modules,"F-DI
+ F-DQ",PLC Hardware,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-1500>Power Supplies,Power Supply,PLC Hardware,Power Supply
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-1500>Operating Control and monitoring,"SIMATIC HMI
+ SIPLUS HMI",HMI,Touch screen
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-1500>Operating Control and monitoring,Starter Kit,PLC Hardware,Starter Kit
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-1500>Accessories,,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-1500>Accessories,DIN Rail,Installation & Mounting,DIN Rail Mounting Frame
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-1500>Accessories,Labeling Sheets,Marking & Labeling,Equipment Marking
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-300>Central Processing Units,,PLC Hardware,CPU
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-300>I/O Modules,"DI
+ DQ
+ DO
+ DI & DO
+ DI & DQ",PLC Hardware,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-300>I/O Modules,"AA
+ AE
+ AI
+ AO
+ AQ
+ AI & AO
+ AI & AQ",PLC Hardware,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-300>I/O Modules,"F-DI
+ F-DO
+ Safety Protector",PLC Hardware,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-300>I/O Modules>Function Modules,,PLC Hardware,Function Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-300>I/O Modules>Communication,"//!branches:Network Components for profibus, Cabling technology, Loadable drivers for CP 441-2 and CP 341//",PLC hardware,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-300>I/O Modules>Communication>Loadable drivers for CP 441-2 and CP 341,,Software,Device & Network Configuration
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-300>I/O Modules>Special Modules,,PLC Hardware,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-300>I/O Modules>Connection System,"
+//start:Front Connector//",PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-300>I/O Modules>Connection System,Connecting cable & Between front connector,Cable & Wire,Industrial Cable
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-300>I/O Modules>Connection System,"TP1 & Push-in terminal
+ TP2 & Push-in terminal
+ TPRO & Push-in terminal
+ TPRI & Push-in terminal
+ TP3 & Push-in terminal
+ TPOO & Push-in terminal
+ TPA & Push-in terminal
+","Push-in connection
+",Multi-conductor terminal block
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-300>I/O Modules>Connection System,"TP1 & Screw terminal
+TP2 & Screw terminal
+TPRO & Screw terminal
+ TPRI & Screw terminal
+TP3 & Screw Terminal
+ TPOO & Screw terminal
+TPA & Screw terminal",Screw Connection, Multi-conductor terminal block
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-300>Power Supplies,Power Supply,PLC Hardware,Power Supply
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-300,IM,PLC Hardware,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-300>Accessories,,PLC Hardware,Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-300>Accessories,DIN Rail,Installation & Mounting,DIN Rail Mounting Frame
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-300>Accessories,Labeling Sheets,Marking & Labeling,Equipment Marking
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Central Processing Units>Standard CPUs,CPU,PLC Hardware,CPU
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Central Processing Units>Standard CPUs>SIPLUS S7-400 standard CPUs,Connector,USB / D-sub connectors,
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Central Processing Units>Standard CPUs>SIPLUS S7-400 standard CPUs,RAM,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Central Processing Units>Standard CPUs>SIPLUS S7-400 standard CPUs,RS-485-Repeater,"Profinet
+
+",Network Component
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Central Processing Units>Standard CPUs>SIPLUS S7-400 standard CPUs,DVD,Software,PLC Programming
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Central Processing Units>Standard CPUs>SIPLUS S7-400 standard CPUs,Standard Cable,Cable & Wire,Industrial Cable
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Central Processing Units>Fail-safe CPUs,CPU,PLC Hardware,CPU
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Central Processing Units>High-availability CPUs,CPU,PLC Hardware,CPU
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Central Processing Units>High-availability CPUs,"Synchronization module
+Sync module
+Y-Link
+active bus module
+Y-coupler
+Y couplers",PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Central Processing Units>High-availability CPUs,//start:SIPLUS ET 200M IM//,Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Central Processing Units>Interface modules,,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Signal modules,"SM & DI
+SM & DO
+SM & AI
+SM & AO
+SM & 16AI
+SM & 8AO",PLC Hardware,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Function modules,"FM
+FM458-1
+EXM 448-2",PLC Hardware,Function Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Function modules,D7-SYS,Software,PLC Programming
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Function modules,Round cable,Cable & Wire,Industrial Cable
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Function modules,"SB10
+SB61
+SB71
+SU12
+SU13",PLC Hardware,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Communication,"CP
+TIM",PLC Hardware,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Communication>Loadable drivers for CP 441-2 and CP 341,,Software,PLC Programming
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Communication,FastConnect,Network Connectors,
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Communication,wireless antenna,Industrial Wireless,Antenna & Cable
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Communication,TP cable,Cable & Wire,Industrial Cable
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Connection method,front connector,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH,Rack,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Interface modules,IM,PLC Hardware,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH,"Power supply
+SIPLUS & PS",PLC Hardware,Power Supply
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Accessories,"spare part
+cover sheeting",PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>Accessories,Labeling Sheets,Marking & Labeling,Equipment Marking
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>S7-400H,//!branches:Sync module for coupling the CPU 41xH//,PLC Hardware,CPU
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>S7-400H,//branches:Sync module for coupling the CPU 41xH//,PLC Hadware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>S7-400F/FH,"//branches:CPU 412H, CPU 414H, CPU 416H, CPU 417H//",PLC Hardware,CPU
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>S7-400F/FH,//branches:Sync module for coupling the CPU 41xH//,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>S7-400F/FH>SIMATIC ET 200M,"IM
+IM153-1
+IM153-1",Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>S7-400F/FH>SIMATIC ET 200M,safety protector,Distributed I/O,Function Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>S7-400F/FH>SIMATIC ET 200M,bus module,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>S7-400F/FH>Fail-safe input/output modules,,PLC Hardware,I/O Module
+"Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Advanced controllers>S7-400/S7-400H/S7-400F/FH>S7-400F/FH>
+SIPLUS S7-300 F-digital/analog modules",,PLC Hardware,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Distributed controllers>based on ET 200SP,//branches:Central processing units//,Distributed I/O,CPU
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Distributed controllers>based on ET 200S,//branches:Central processing units//,Distributed I/O,CPU
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Distributed controllers>based on ET 200Pro,//branches:Central processing units//,Distributed I/O,CPU
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Software controllers,,Software,PLC Programming
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Controllers>Drive controllers,,PLC Hardware,CPU
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200SP>Interface modules,,Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200SP>I/O modules,"DI  //!include:BASEUNIT//
+DQ //!include:BASEUNIT//
+AI //!include:BASEUNIT//
+AQ //!include:BASEUNIT//",Distributed I/O,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200SP>I/O modules,"TM
+SIWAREX",Distributed I/O,Function Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200SP>I/O modules>Communication,"CM
+CP
+IWLAN",Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200SP>I/O modules>Fail-safe I/O modules,"F-DI
+F-DQ
+D-RQ
+F-AI",Distributed I/O,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200SP>I/O modules>Fail-safe I/O modules,PROFIsafe,Distributed I/O,Function Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200SP>I/O modules>Fail-safe I/O modules,F-CM,Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200SP>I/O modules>SIMATIC ET 200SP drive controllers,,Distributed I/O,Function Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200SP>I/O modules>ET 200SP motor starters,,Distributed I/O,Function Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200SP>Power supplies,,Distributed I/O,Power Supply
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200SP,"//branches:BaseUnits, SIPLUS BaseUnits//",PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200SP,"//branches:BusAdapters, SIPLUS BusAdapters//",Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200SP>Accessories,"//!branches:Labeling strips, Equipment labeling plates, Server module//",PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200SP>Accessories,"//branches:Labeling strips, Equipment labeling plates//",Marking & Labeling,Equipment Marking
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200SP>Accessories,//branches:Server module//,Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200SP HA>Interface module,,Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200SP HA,"//branches:Digital I/O modules, Analog I/O modules, Analog/digital module//",Distributed I/O,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200SP HA>Carrier modules,,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200SP HA>Terminal blocks,,"Push-in connection
+",Feed-through terminal block
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200SP HA>BusAdapter,,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200MP>Interface modules,,Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200MP>SIPLUS interface modules,,,
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200MP>I/O modules,"//branches:Digital modules, Analog modules//",Distributed I/O,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200MP>I/O modules,//branches:Technology modules//,Distributed I/O,Function Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200MP>I/O modules,//branches:Communication//,Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200MP>I/O modules>Connection System,Front connector,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200MP>I/O modules>Connection System,Connecting cable,Cable & Wire,Industrial Cable
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200MP>I/O modules>Connection System,"TP1 & Screw terminal
+TP2 & Screw terminal
+TPRO & Screw terminal
+TPRI & Screw terminal
+TPOO Screw terminal
+TP3 & Screw terminal
+TPA & Screw terminal",Screw Connection,Multi-Conductor Terminal Block
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200MP>I/O modules>Fail-safe I/O modules,,Distributed I/O,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200MP>Power supplies,,Distributed I/O,Power Supply
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200MP>Active backplane bus,,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200MP>Accessories,"//branches:Mounting rail, Spare parts//",PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200MP>Accessories,//branches:Labeling sheets//,Marking & Labeling,Equipment Marking
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200S>Interface modules,,Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200S>I/O modules,"//branches:PM-E power modules for electronic modules, Reserve modules, Potential distributor module//",Distributed I/O,Function Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200S>I/O modules,"//branches:Digital electronic modules, Analog electronic modules//",Distributed I/O,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200S>I/O modules>SIPLUS I/O modules,//branches:SIPLUS ET 200S power modules for PM-E electronic modules//,Distributed I/O,Function Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200S>I/O modules>SIPLUS I/O modules,"//branches:SIPLUS ET 200S digital electronic modules, SIPLUS ET 200S analog electronic modules//",Distributed I/O,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200S>I/O modules>Technology modules,,Distributed I/O,Function Module
+"Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200S>I/O modules>
+Terminal modules for power modules and electronic modules",,PLC Hardware,PLC Accessories
+"Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200S>I/O modules>
+SIPLUS ET 200S terminal modules for power and electronic modules",,PLC Hardware,PLC Accessories
+"Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200S>I/O modules>
+Fail-safe I/O modules","//branches:PM-E F PROFIsafe F-power module, F-electronic modules relay//",Distributed I/O,Function Module
+"Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200S>I/O modules>
+Fail-safe I/O modules",//branches:F-electronic modules//,Distributed I/O,I/O Module
+"Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200S>I/O modules>
+Fail-safe I/O modules",//branches:F terminal modules//,PLC Hardware,PLC Accessories
+"Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200S>I/O modules>
+Fail-safe I/O modules>SIPLUS ET 200S fail-safe electronic modules",,Distributed I/O,I/O Module
+"Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200S>
+IO-Link master modules",,Distributed I/O,Communication Module
+"Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200S>
+ET 200S motor starters and safety motor starters","//branches:Standard motor starters, High Feature motor starters, Power module, ET 200S Failsafe motor starters//",Distributed I/O,Function Module
+"Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200S>
+ET 200S motor starters and safety motor starters","//branches:Standard terminal modules, High Feature terminal modules, Power module terminal module, Failsafe terminal modules, Safety modules local and PROFIsafe terminal modules, Accessories//",PLC Hardware,PLC Accessories
+"Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200S>
+ET 200S motor starters and safety motor starters>Safety modules local and PROFIsafe",,Distributed I/O,Function Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200S>ET 200S software,,Software,Device & Network Configuration
+"Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200S>
+Add-on products for the ET 200S",,Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200M>Interface modules,IM,Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200M>Interface modules,Bus module,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200M>SIPLUS Interface modules,IM,Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200M>SIPLUS Interface modules,Bus module,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200M>I/O modules,"//branches:Digital modules, Analog modules, Analog modules with HART, Ex digital modules, Ex Analog modules//",Distributed I/O,I/O Module
+"Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200M>I/O modules>
+F-digital/analog modules",SM,Distributed I/O,I/O Module
+"Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200M>I/O modules>
+F-digital/analog modules",safety protector,Distributed I/O,Function Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200M>I/O modules,"//branches:Function modules, Special modules//",Distributed I/O,Function Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200M>I/O modules,//branches:Communication//,Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200M>I/O modules>Connection system,front connector,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200M>I/O modules>Connection system,Connecting cable,Cable & Wire,Industrial Cable
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200M>Power supplies,,Distributed I/O,Power Supply
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200iSP>Power supply unit,"power supply
+//!include:terminal module//",Distributed I/O,Power Supply
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200iSP>Power supply unit,"//include:terminal module, power supply//",PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200iSP>Interface module,IM152-1,Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200iSP>Interface module,terminal module,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200iSP>Digital electronic modules,//!include:terminal module//,Distributed I/O,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200iSP>Digital electronic modules,//include:terminal module//,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200iSP>Analog electronic modules,//!include:terminal module//,Distributed I/O,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200iSP>Analog electronic modules,//include:terminal module//,PLC Hardware,PLC Accessories
+"Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200iSP>
+Safety-related electronic modules",//!include:terminal module//,Distributed I/O,I/O Module
+"Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200iSP>
+Safety-related electronic modules",//include:terminal module//,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200iSP>Watchdog module,//!include:terminal module//,Distributed I/O,Function Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200iSP>Watchdog module,//include:terminal module//,PLC Hardware,PLC Accessories
+"Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200iSP>
+RS 485-iS Coupler",,Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems for the control cabinet>SIMATIC ET 200iSP>Stainless steel wall enclosure,,Installation & Mounting,Enclosure
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200pro>Interface modules,,Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200pro>I/O modules,"//branches:Digital expansion modules, Analog expansion modules, Fail-safe expansion modules//",Distributed I/O,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200pro>I/O modules,"//branches:Communication, ET 200pro pneumatic interface, RF170C//",Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200pro>I/O modules,"//branches:PM-E power module, PM-O power module output//",Distributed I/O,Function Module
+"Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200pro>
+3-phase, 24 V DC (ET200pro PS, IP67)",,Distributed I/O,Power Supply
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200pro,"//branches:ET 200pro motor starters, ET 200pro safety motor starters Solutions local/PROFIsafe//",Distributed I/O,Function Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200pro>Accessories for ET 200pro motor starters,,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200pro>SIMATIC ET 200pro FC-2 frequency converter,bus module,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200pro>SIMATIC ET 200pro FC-2 frequency converter,//!include:bus module//,Distributed I/O,Function Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200pro>ET 200pro software,,Software,Device & Network Configuration
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200pro>Add-on products for ET 200pro,,Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200AL>Interface modules,,Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200AL>I/O modules,"//branches:Digital I/O modules, Analog I/O modules//",Distributed I/O,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200AL>I/O modules,//branches:Communication//,Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200AL>Accessories,"//start:bus cable,connecting cable,power cable//",Cable & Wire,Industrial Cable
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200eco PN,"DI
+DO
+AI
+AO
+F-DI
+DIO",Distributed I/O,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>SIMATIC ET 200eco PN,IO-Link,Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>SIMATIC ET 200 systems without control cabinet>ET 200eco PN IO-Link master,,Distributed I/O,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>PROFIBUS components>Power Rail Booster,,Profinet,Network Component
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>PROFIBUS components,"//branches:Diagnostics, PROFIBUS DP ASICs, SIPLUS PROFIBUS components for ET 200//",Profinet,Network Component
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>I/O systems>PROFINET components,//branches:PROFINET drivers//,Software,Device & Network Configuration
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>SIMATIC control systems>FM 458-1 DP application module,"//!branches:D7-SYS, Accessories//",PLC Hardware,Function Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>SIMATIC control systems>FM 458-1 DP application module,//branches:D7-SYS//,Software,PLC Programming
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>SIMATIC control systems>FM 458-1 DP application module>Accessories,Round cable,Cable & Wire,Industrial Cable
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>SIMATIC control systems>FM 458-1 DP application module>Accessories,"SB10
+SB61
+SB71
+SU12
+SU13",PLC Hardware,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>SIMATIC control systems>SIMATIC TDC multiprocessor control system,"rack
+Flash-EPROM",PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>SIMATIC control systems>SIMATIC TDC multiprocessor control system,"CPU555
+CPU551",PLC Hardware,CPU
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>SIMATIC control systems>SIMATIC TDC multiprocessor control system,"CP
+CP52A0
+SB10
+SB60
+SB61
+SB70
+SB71
+SU12
+SU13",PLC Hardware,Communication Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>SIMATIC control systems>SIMATIC TDC multiprocessor control system,SM500,PLC Hardware,I/O Module
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>SIMATIC control systems>SIMATIC TDC multiprocessor control system,D7-SYS,Software,PLC Programming
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>SIMATIC control systems>SIMATIC TDC multiprocessor control system,"Round cable
+Service cable",Cable & Wire,Industrial Cable
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Software for SIMATIC Controllers,,Software,PLC Programming
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Programming devices,Field PG,Industrial PC,Field PC
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Programming devices,SIMATIC PG,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>Simatic Industrial Automation Systems>Programming devices>Communication software,,Software,Device & Network Configuration
+Automation Technology>Automation systems>SIMOTION Motion Control System>SIMOTION hardware platforms>SIMOTION D410-2 Control Units,SIMOTION Drive-based & Flash Card,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>SIMOTION Motion Control System>SIMOTION hardware platforms>SIMOTION D410-2 Control Units,"SIMOTION Drive-based
+//!include:Flash Card//",Servo Drives,
+Automation Technology>Automation systems>SIMOTION Motion Control System>SIMOTION hardware platforms>SIMOTION D410-2 Control Units,SIMOTION TECHNOLOGY,Software,Device & Network Configuration
+Automation Technology>Automation systems>SIMOTION Motion Control System>SIMOTION hardware platforms>SIMOTION D4x5-2 Control Units,"SIPLUS D435-2
+SIPLUS D455-2
+SIMOTION Drive-based //!include:Flash Card//",Servo Drives,
+Automation Technology>Automation systems>SIMOTION Motion Control System>SIMOTION hardware platforms>SIMOTION D4x5-2 Control Units,SIMOTION TECHNOLOGY,Software,Device & Network Configuration
+Automation Technology>Automation systems>SIMOTION Motion Control System>SIMOTION hardware platforms>SIMOTION D4x5-2 Control Units,SIMOTION Drive-based & Flash Card,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>SIMOTION Motion Control System>SIMOTION hardware platforms>SIMOTION D - Drive-based>Supplementary components>SIMOTION CX32-2 Controller Extension,,Servo Drives,
+Automation Technology>Automation systems>SIMOTION Motion Control System>SIMOTION hardware platforms>SIMOTION P - PC-based,,Industrial PC,Rack PC
+Automation Technology>Automation systems>SIMOTION Motion Control System>SIMOTION hardware platforms>SIMOTION C - Controller-based,,PLC Hardware,CPU
+Automation Technology>Automation systems>SIMOTION Motion Control System>SIMOTION software>SIMOTION runtime software>Ordering of licenses for runtime software,,Software,Device & Network Configuration
+Automation Technology>Automation systems>SIMOTION Motion Control System>SIMOTION software>OPC server,CP,PLC Hardware,Communication Module
+Automation Technology>Automation systems>SIMOTION Motion Control System>SIMOTION software>OPC server,//!include:CP//,Software,Device & Network Configuration
+Automation Technology>Automation systems>SIMOTION Motion Control System>SIMOTION software>SIMOTION IT,,Software,Device & Network Configuration
+"Automation Technology>Automation systems>SIMOTION Motion Control System>SIMOTION software>SIMOTION engineering software>SIMOTION SCOUT software package>Ordering of engineering software, information",,Software,Device & Network Configuration
+Automation Technology>Automation systems>SINUMERIK CNC automation systems>CNC portfolio>SINUMERIK 808,"//branches:Function overview of SINUMERIK 808D ADVANCED, SINUMERIK 808D on PC//",Software,Device & Network Configuration
+Automation Technology>Automation systems>SINUMERIK CNC automation systems>CNC portfolio>SINUMERIK 828,//branches:Function overview of SINUMERIK 828D with SINAMICS S120//,Software,Device & Network Configuration
+Automation Technology>Automation systems>SINUMERIK CNC automation systems>CNC portfolio>SINUMERIK 828>SINUMERIK 828D,"DVD
+DVD-EDITION",Software,Device & Network Configuration
+Automation Technology>Automation systems>SINUMERIK CNC automation systems>CNC portfolio>SINUMERIK 840,//branches:Function overview of SINUMERIK 840D sl with SINAMICS S120//,Software,Device & Network Configuration
+Automation Technology>Automation systems>SINUMERIK CNC automation systems>CNC portfolio>SINUMERIK 840>SINUMERIK Safety Integrated,,Software,Device & Network Configuration
+Automation Technology>Automation systems>SINUMERIK CNC automation systems>CNC portfolio>SINUMERIK ONE,//branches:Function overview of SINUMERIK ONE with SINAMICS S120//,Software,Device & Network Configuration
+Automation Technology>Automation systems>SINUMERIK CNC automation systems>CNC portfolio>SINUMERIK ONE>SINUMERIK Safety Integrated,,Software,Device & Network Configuration
+Automation Technology>Automation systems>SINUMERIK CNC automation systems>CNC portfolio>SINUMERIK MC,"//branches:Function overview of SINUMERIK MC with SINAMICS S120/S210, SINUMERIK MCU 1720//",Software,Device & Network Configuration
+Automation Technology>Automation systems>SINUMERIK CNC automation systems>CNC portfolio>SINUMERIK MC,//branches:SIMATIC Industrial Flat Panel for SINUMERIK//,HMI,Touch Screen
+Automation Technology>Automation systems>SINUMERIK CNC automation systems>Related products and functions>SINUMERIK Operate,,Software,Device & Network Configuration
+Automation Technology>Automation systems>SINUMERIK CNC automation systems>Related products and functions>Operator components for CNC controls>Operator panels for SINUMERIK>SIMATIC IPC for SINUMERIK,,Industrial PC,Rack PC
+Automation Technology>Automation systems>SINUMERIK CNC automation systems>Related products and functions>Operator components for CNC controls>Operator panels for SINUMERIK>Operator panel fronts blackline plus,//!include:Software//,HMI,Touch Screen
+Automation Technology>Automation systems>SINUMERIK CNC automation systems>Related products and functions>Operator components for CNC controls>Operator panels for SINUMERIK>Operator panel fronts blackline plus,Software,Software,PLC Programming
+Automation Technology>Automation systems>SINUMERIK CNC automation systems>Related products and functions>Operator components for CNC controls>Operator panels for SINUMERIK>Operator panel fronts blackline,,HMI,Touch Screen
+Automation Technology>Automation systems>SINUMERIK CNC automation systems>Related products and functions>Operator components for CNC controls>Operator panels for SINUMERIK>Operator panel fronts in classic design,//!branches:SINUMERIK TCU 30.3//,HMI,Touch Screen
+Automation Technology>Automation systems>SINUMERIK CNC automation systems>Related products and functions>CNC Shopfloor Management Software,,Software,Device & Network Configuration
+Automation Technology>Automation systems>System cabling/control cabinets>System cabling for SIMATIC S7-1500 and ET 200MP>Fully modular connection,//branches:Front connector modules//,PLC Hardware,PLC Accessories
+Automation Technology>Automation systems>System cabling/control cabinets>System cabling for SIMATIC S7-1500 and ET 200MP>Fully modular connection,//branches:Connecting cables//,Cable & Wire,Industrial Cable
